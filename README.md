@@ -141,9 +141,8 @@ This project demonstrates practical **system-level programming skills** and buil
 
 ## 👨‍💻 10. Author
 
-**Pratik Rout**  
-Final Year – Computer Science and Information Technology  
-
+**Kumar Premsai**  
+Final Year – Computer Science and Engineering
 
 ---
 
